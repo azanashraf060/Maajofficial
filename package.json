@@ -1,18 +1,15 @@
 {
-  "name": "template",
+  "name": "maajofficial",
   "version": "1.0.0",
-  "description": "Azan's node template",
+  "description": "Maajofficial Ecommerce website.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [
-    "node"
-  ],
   "author": "Azan",
   "license": "ISC",
   "engines": {
-    "node": "14.18.1"
+    "node": "16.13.0"
   },
   "dependencies": {
     "ejs": "^3.1.6",
